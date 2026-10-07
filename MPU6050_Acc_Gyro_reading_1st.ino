@@ -2,7 +2,7 @@
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <math.h>
-
+//comment
 Adafruit_MPU6050 mpu;
 
 // LED pins
